@@ -1,7 +1,9 @@
 # Dependencies
 node_modules/
 client/node_modules/
-server/node_modules/
+
+# Server (run locally only)
+server/
 
 # Environment variables
 .env
